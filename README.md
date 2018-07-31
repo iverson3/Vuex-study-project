@@ -2,6 +2,13 @@
 
 > learn vue,vuex,vue-Router,vue-Resource,vuex-along,vuex-router-sync,element-ui
 
+> vuex                   state管理
+> vue-Router             路由
+> vue-Resource           http请求 (支持拦截器)
+> vuex-along             state持久化 解决页面刷新丢失state (作为vuex插件使用) 
+> vuex-router-sync       将router状态放入vuex进行管理
+> element-ui             组件库
+
 ## Build Setup
 
 ``` bash
