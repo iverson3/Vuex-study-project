@@ -1,6 +1,6 @@
 # learnvuexproject
 
-> learn vue,vuex,router,vueResource
+> learn vue,vuex,vue-Router,vue-Resource,vuex-along,vuex-router-sync,element-ui
 
 ## Build Setup
 
